@@ -1,15 +1,12 @@
 ## Hi there! 👋 I'm Daksh
 
-**whoschisa/whoschisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile. Here's a little about me:
-
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Fin-Vault**, a user-friendly bank management system.
 - 🌱 I’m currently learning **Data Science** and **AI**.
 - 👯 I’m looking to collaborate on **Discord bots**, **data science projects**, and **web development**.
 - 💬 Ask me about **Python**, **JavaScript (Discord.js)**, **MongoDB Atlas**, and **SQL**.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-dakshkothari7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dakshkothari7@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dakshkothari7@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I developed a **K-pop card bot** with over **100,000+ users** on Discord!
 
 ### 🛠 Skills
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -20,8 +17,6 @@
 
 ### 🏆 Achievements
 - Ranked **10th worldwide** in the **Codementum Competition** (2023 - 2024).
-- Led my school's **Volleyball Team** in CBSE Cluster competitions and participated in the **ADEK Cup** basketball tournament.
-- **Head Boy** of my school, initiating student-led clubs like **Radio Jockey** and promoting **Sustainable Development** practices.
 
 ### 📂 Featured Projects
 #### IU Card Game (100k+ Users)
@@ -40,6 +35,6 @@ Worked on website updates and digital marketing:
 ![WiX Badge](https://img.shields.io/badge/-WiX-000?style=flat&logo=wix&logoColor=white)
 
 ### 🌐 Let's Connect
-[![LinkedIn Badge](https://img.shields.io/badge/-Daksh%20Kothari-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Daksh%20Kothari-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/daksh-kothari)
 [![GitHub Badge](https://img.shields.io/badge/-whoschisa-181717?style=flat&logo=github&logoColor=white)](https://github.com/whoschisa)
 
