@@ -1,12 +1,10 @@
 ## Hi there! 👋 I'm Daksh
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Fin-Vault**, a user-friendly bank management system.
-- 🌱 I’m currently learning **Data Science** and **AI**.
-- 👯 I’m looking to collaborate on **Discord bots**, **data science projects**, and **web development**.
-- 💬 Ask me about **Python**, **JavaScript (Discord.js)**, **MongoDB Atlas**, and **SQL**.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dakshkothari7@gmail.com)
-- 😄 Pronouns: He/Him
+- 🎓 I'm a high school student passionate about **coding** and constantly exploring new technologies.
+- 🔭 Currently building **[Fin-Vault](#)** – a sleek, user-friendly bank management system that simplifies financial operations!
+- 📫 Wanna reach out? [![Gmail Badge](https://img.shields.io/badge/Contact-Me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dakshkothari7@gmail.com) Let's connect!
+- 😄 Pronouns: He/Him | 🏀 Passionate about basketball & leadership in school.
 
 ### 🛠 Skills
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
