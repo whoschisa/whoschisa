@@ -17,7 +17,7 @@
 - Ranked **10th worldwide** in the **Codementum Competition** (2023 - 2024).
 
 ### 📂 Featured Projects
-#### IU Card Game (100k+ Users)
+#### IU Card Game
 A K-pop card bot developed using:
 ![Discord.js Badge](https://img.shields.io/badge/-Discord.js-7289DA?style=flat&logo=Discord&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
