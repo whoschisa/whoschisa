@@ -33,6 +33,6 @@ Worked on website updates and digital marketing:
 ![WiX Badge](https://img.shields.io/badge/-WiX-000?style=flat&logo=wix&logoColor=white)
 
 ### 🌐 Let's Connect
-[![LinkedIn Badge](https://img.shields.io/badge/-Daksh%20Kothari-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/daksh-kothari)
+[![LinkedIn Badge](https://img.shields.io/badge/-Daksh%20Kothari-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-kothari)
 [![GitHub Badge](https://img.shields.io/badge/-whoschisa-181717?style=flat&logo=github&logoColor=white)](https://github.com/whoschisa)
 
