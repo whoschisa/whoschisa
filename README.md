@@ -1,10 +1,8 @@
 ## Hi there! 👋 I'm Daksh
 
 ### 👨‍💻 About Me
-- 🎓 I'm a high school student passionate about **coding** and constantly exploring new technologies.
-- 🔭 Currently building **[Fin-Vault](#)** – a sleek, user-friendly bank management system that simplifies financial operations!
+- 🎓 I'm a college student passionate about **coding** and constantly exploring new technologies.
 - 📫 Wanna reach out? [![Gmail Badge](https://img.shields.io/badge/Contact-Me-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dakshkothari7@gmail.com) Let's connect!
-- 😄 Pronouns: He/Him | 🏀 Passionate about basketball & leadership in school.
 
 ### 🛠 Skills
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
